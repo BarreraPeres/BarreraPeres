@@ -18,7 +18,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 Fique à vontade para entrar em contato comigo se tiver alguma dúvida, oportunidade de trabalho ou apenas quiser bater um papo!
 
-[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielbarreraperes18@gmail.com)
+ Email: (gabrielbarreraperes18@gmail.com)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbarrerap)
 
