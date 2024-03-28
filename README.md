@@ -1,16 +1,28 @@
-### Hi there 👋
+# Olá, Mundo! 👋 
+Eu sou o Gabriel Barrera Peres e sou um estudante apaixonado por desenvolvimento back-end.
 
-<!--
-**BarreraPeres/BarreraPeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Educação
 
-Here are some ideas to get you started:
+Estou atualmente cursando Desenvolvimento Back-End na Anhanguera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Habilidades Técnicas
+
+Aqui estão algumas das tecnologias com as quais tenho experiência:
+
+- Node.js
+- Express.js
+- MySQL
+- Python (Aprendendo...)
+
+## 📫 Entre em Contato
+
+Fique à vontade para entrar em contato comigo se tiver alguma dúvida, oportunidade de trabalho ou apenas quiser bater um papo!
+
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielbarreraperes18@gmail.com)
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielbarrerap)
+
+![Gabriel Peres GitHub stats](https://github-readme-stats.vercel.app/api?username=BarreraPeres&show_icons=true&theme=highcontrast)
+
+
+Obrigado por visitar meu perfil
