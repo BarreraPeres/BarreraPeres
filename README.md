@@ -1,4 +1,4 @@
-# Olá, Mundo! 👋 
+# Olá, Mundo! 👋 🦊
 Eu sou o Gabriel Barrera Peres e sou um estudante apaixonado por desenvolvimento back-end.
 
 ## 📚 Educação
