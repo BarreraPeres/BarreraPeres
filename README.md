@@ -12,7 +12,7 @@ Aqui estão algumas das tecnologias com as quais tenho experiência:
 - Node.js
 - Express.js
 - MySQL
-- Python (Aprendendo...)
+- Python
 
 ## 📫 Entre em Contato
 
