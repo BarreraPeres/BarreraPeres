@@ -5,14 +5,19 @@ Eu sou o Gabriel Barrera Peres e sou um estudante apaixonado por desenvolvimento
 
 Estou atualmente cursando Desenvolvimento Back-End na Anhanguera.
 
-## 💻 Habilidades Técnicas
+## 💻 Tecnologias 🚀
 
 Aqui estão algumas das tecnologias com as quais tenho experiência:
 
 - Node.js
+- JavaScript
+- TypeScript
+- Fastify
+- Prisma
 - Express.js
 - MySQL
-- Python
+- PostgreSQL
+- Docker
 
 ## 📫 Entre em Contato
 
