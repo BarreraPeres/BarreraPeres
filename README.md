@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### i'm developer web, always learning from mistakes, a sincere guy<br>
 ### currently learning nest.js
-### currently studying back end development at anhanguera
+### formed in back end development at anhanguera
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/barreraperes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielbarrerap) 
